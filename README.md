@@ -19,9 +19,3 @@
 ### Imagem do Laravel no DockerHub
 
 **Link:** https://hub.docker.com/r/paulojp/laravel
-
-Para baixar: `docker pull paulojp/laravel`
-
-Executando a imagem isoladamente:
-1. `docker run -d -p 9000:9000 --name laravel paulojp/laravel`
-2. Acessar via navegador: `http://0.0.0.0:9000/`
